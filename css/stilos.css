@@ -9,7 +9,7 @@ body{
 }
 
 #cabecera{
-    background: #323846;
+    background: #1B1F4E;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -38,7 +38,7 @@ body{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #323846;
+    background-color: #1B1F4E;
     color: white;
     text-align: center;
   }
