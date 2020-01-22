@@ -10,3 +10,6 @@
 *Solo es de prueba
 *Blog con propositos de estudio
 *Creado por el masiso de hector
+*Creado por el masiso de hector
+*Incluye varios ejemplos 
+*disponible para mi
